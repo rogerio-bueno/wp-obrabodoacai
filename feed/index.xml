@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>O brabo do Açao</title>
+	<title>O brabo do Açaí</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dinheiro não compra felicidade, mas compra açaí que dá no mesmo então chama que o brabo tá on e levamos até você!</description>
-	<lastBuildDate>Tue, 08 Oct 2024 14:56:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Oct 2024 15:13:10 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/10/logo.png</url>
-	<title>O brabo do Açao</title>
+	<title>O brabo do Açaí</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
